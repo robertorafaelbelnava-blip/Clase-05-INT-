@@ -1,5 +1,6 @@
 # Clase-05-INT-
 Conexión con Perplexity
+
 **DESCRIPCIÓN**
 * Consulta respecto al nuevo Duty en Posadas y su impacto
 
